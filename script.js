@@ -8,3 +8,12 @@ const imagesArr = [
   let imgIndex = 0;
   
   const imgElement = document.getElementById('image');
+
+  function prev(){
+    if (imgIndex == 0) {
+      imgIndex = imagesArr.length - 1;
+    } else {
+      imgIndex--;
+    }
+    imgElement.src = imagesArr[imgIndex];
+  }
