@@ -37,3 +37,15 @@ body{
       .btn-right{
         right: -25px;
       }
+      span
+      {position:absolute;
+        font-size: 55px;
+        color: #fff;
+        display: inline;
+     text-align: center;
+     margin-left: 350px;
+     margin-top: 70px;
+     font-weight: bold;
+     font-style: italic;
+      
+      }
