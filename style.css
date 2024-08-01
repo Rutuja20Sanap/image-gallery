@@ -12,3 +12,22 @@ body{
       margin-top: 100px;
       
     }
+
+    .container{
+        position: relative;
+        width: fit-content;
+        display: block;
+        margin: 10px auto;
+      
+      }
+      .btn{
+        height:50px;
+        margin: 0 10px;
+        cursor: pointer;
+        background-color:white;
+        padding:5px;
+        border-radius:7px;
+         position: absolute;
+        top: 250px;
+        box-shadow: 0 10px 10px #a09ea0 ;
+      }
