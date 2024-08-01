@@ -17,3 +17,11 @@ const imagesArr = [
     }
     imgElement.src = imagesArr[imgIndex];
   }
+  function next(){
+    if (imgIndex == imagesArr.length - 1) {
+      imgIndex = 0;
+    } else {
+      imgIndex++;
+    }
+    imgElement.src = imagesArr[imgIndex];
+  }
