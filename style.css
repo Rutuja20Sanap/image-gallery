@@ -34,3 +34,6 @@ body{
       .btn-left{
         left: -25px;
       }
+      .btn-right{
+        right: -25px;
+      }
