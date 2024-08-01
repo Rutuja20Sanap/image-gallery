@@ -25,3 +25,4 @@ const imagesArr = [
     }
     imgElement.src = imagesArr[imgIndex];
   }
+  setInterval(next,2000);
