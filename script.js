@@ -5,3 +5,6 @@ const imagesArr = [
     "img-4.png",
     "img-5.png"
   ];
+  let imgIndex = 0;
+  
+  const imgElement = document.getElementById('image');
