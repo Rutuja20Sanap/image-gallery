@@ -1,9 +1,9 @@
 const imagesArr = [
-    "img-1.png",
-    "img-2.png",
-    "img-3.png",
-    "img-4.png",
-    "img-5.png"
+    "./img/img-1.png",
+    "./img/img-2.png",
+    "./img/img-3.png",
+    "./img/img-4.png",
+    "./img/img-5.png"
   ];
   let imgIndex = 0;
   
