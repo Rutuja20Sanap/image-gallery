@@ -31,3 +31,6 @@ body{
         top: 250px;
         box-shadow: 0 10px 10px #a09ea0 ;
       }
+      .btn-left{
+        left: -25px;
+      }
